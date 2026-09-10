@@ -8,7 +8,7 @@ I'm a **Artificial Intelligence & Machine Learning** graduate with a growing pas
 
 I enjoy solving real-world problems through AI while also exploring how systems can be secured through penetration testing, vulnerability assessment, and security analysis. My experience includes building machine learning projects, developing AI-powered applications, and performing hands-on cybersecurity labs using Kali Linux and vulnerable virtual machines.
 
-Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud Technologies**, while actively seeking opportunities in **Cybersecurity**, **AI/ML**, **Software Engineering**, and **Security Engineering**.
+Currently, I'm expanding my skills in **Security Operation Center (SOC)**, **Information Technology**, and **Cloud Technologies**, while actively seeking opportunities in **Cybersecurity**, **AI/ML**, **Software Engineering**, and **Security Engineering**.
 
 ---
 
@@ -38,7 +38,7 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 
 ### 🔐 Cybersecurity
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
@@ -49,10 +49,9 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-555555?style=flat)
 ![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat)
-![Netdiscover](https://img.shields.io/badge/Netdiscover-006699?style=flat)
 ![Searchsploit](https://img.shields.io/badge/Searchsploit-222222?style=flat)
 ![Steghide](https://img.shields.io/badge/Steghide-006400?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ### 👨‍💻 Programming Languages
 
@@ -79,10 +78,6 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 
-### 📊 Data Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 
 ### 🎨 Design
 
@@ -98,16 +93,15 @@ Currently, I'm expanding my skills in **Cybersecurity**, **AI/ML**, and **Cloud 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 
 ## 🚀 Current Focus
 
-- 🔐 Cybersecurity & Ethical Hacking
-- 🛡️ Penetration Testing
-- 🌐 Network Security
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Security
-- 📊 Data Analytics
+- Security Operation Center (SOC)
+- Network Security
+- Information Technology
+- Cloud Security
+- Artificial Intelligence & Machine Learning
+
